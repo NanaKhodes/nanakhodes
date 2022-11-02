@@ -1,1 +1,1 @@
-# school
+# a school landing page
